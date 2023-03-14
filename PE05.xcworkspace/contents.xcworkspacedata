@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Str Dist">
+   </FileRef>
+   <FileRef
+      location = "group:Str Copies">
+   </FileRef>
+   <FileRef
+      location = "group:Str Count">
+   </FileRef>
+   <FileRef
+      location = "group:NestParen">
+   </FileRef>
+   <FileRef
+      location = "group:ParentBit">
+   </FileRef>
+   <FileRef
+      location = "group:CountHi2">
+   </FileRef>
+   <FileRef
+      location = "group:String Clean">
+   </FileRef>
+   <FileRef
+      location = "group:Count11">
+   </FileRef>
+   <FileRef
+      location = "group:Count ABC">
+   </FileRef>
+   <FileRef
+      location = "group:Count Pairs">
+   </FileRef>
+   <FileRef
+      location = "group:End X">
+   </FileRef>
+   <FileRef
+      location = "group:Pair Star">
+   </FileRef>
+   <FileRef
+      location = "group:All Star">
+   </FileRef>
+   <FileRef
+      location = "group:ChangePi">
+   </FileRef>
+   <FileRef
+      location = "group:ChangeXY">
+   </FileRef>
+   <FileRef
+      location = "group:CountHi">
+   </FileRef>
+   <FileRef
+      location = "group:CountX">
+   </FileRef>
+   <FileRef
+      location = "group:PowerN">
+   </FileRef>
+   <FileRef
+      location = "group:Count8">
+   </FileRef>
+   <FileRef
+      location = "group:Count7">
+   </FileRef>
+   <FileRef
+      location = "group:Sum Digits">
+   </FileRef>
+   <FileRef
+      location = "group:Triangle">
+   </FileRef>
+   <FileRef
+      location = "group:Bunny Ears 2">
+   </FileRef>
+   <FileRef
+      location = "group:Fibonacci">
+   </FileRef>
+   <FileRef
+      location = "group:Bunny Ears">
+   </FileRef>
+   <FileRef
+      location = "group:Factorial">
+   </FileRef>
+</Workspace>
